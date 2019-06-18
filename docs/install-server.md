@@ -1,14 +1,8 @@
 # Server installation
 
-To update the server with the latest version of the gwot game. From ubuntu admin's home folder run:
+## Installation notes:
 
-```
-sudo ./update_gwot.sh 
-```
-
-### Installation notes:
-
-I started from a Ubuntu 18.04 AMI, on a t2.micro instance.
+I started from a Ubuntu 18.04 AMI, on an Amazon AWS ECS t2.micro instance.
 
 log of commands issued on the server to create a working minetest server: 
 
@@ -62,12 +56,19 @@ sudo systemctl enable minetestrunner
 sudo systemctl disable minetestrunner
 ```
 
-Hookup the game using git:
+
+## Install the game
+
+I find it easiest to hookup the game using git.
+The directroy where Minetest keeps its games is `/usr/share/minetest/games`
 
 ```
-sudo git clone https://github.com/XSCALE-Alliance/virtual_game_without_thrones.git --recurse-submodules
+sudo ./scripts/install_gwt.sh
 ```
 
+To update the server with the latest version of the Game Withou Thrones game. 
+
 ```
-/usr/share/minetest/games$ sudo git clone https://github.com/XSCALE-Alliance/virtual_game_without_thrones.git --recurse-submodules
+sudo ./scripts/update_gwt.sh 
 ```
+
