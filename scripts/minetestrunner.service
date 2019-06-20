@@ -1,0 +1,15 @@
+[Unit]
+Description=Runs the minetest server
+After=network.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=5
+User=minetestrunner
+Group=minetestrunner
+ExecStart=/usr/bin/minetest --server --worldname xscale --config /home/minetestrunner/.minetest/worlds/xscale/world.mt
+
+[Install]
+WantedBy=multi-user.target
