@@ -16,17 +16,6 @@ $ sudo su minetestrunner -
 $ /usr/bin/minetest --server --worldname xscale --config ~/.minetest/worlds/xscale/world.mt
 ```
 
-my world file:
-
-```
-creative_mode = true
-auth_backend = sqlite3
-player_backend = sqlite3
-gameid = minetest
-enable_damage = false
-backend = sqlite3
-```
-
 Copy the [Service unit file] to `/etc/systemd/system/minetestrunner.service`):
 
 Now you can control the minetestrunner service using these service commands:
@@ -54,4 +43,13 @@ To update the server with the latest version of the Game Withou Thrones game.
 sudo ./scripts/update_gwt.sh 
 ```
 
- [Service unit file]: ../scripts/minetestrunner.service
+Place the following world file into an empty folder under 
+`/home/minetestrunner/.minetest/worlds`,
+named after the world you want to host.
+I use `xscale` for this world's name.
+When Minetest starts for the first time, 
+it will initiate the player and world databases for you.
+
+
+ [world.mt]: ../config/world.mt
+ [Service unit file]: ../config/minetestrunner.service

@@ -5,7 +5,7 @@ This guide is meant to be used in conjunction with the facilitation deck used fo
 This facilitation deck can be found on the [XSCALE Alliance Onedrive fileshare].
 The following additional tools and documentation are provided:
 
- * [scripts] and [docs] for installing and maintaining your Game Without Thrones Minetest server
+ * [scripts], [config], and [docs] for installing and maintaining your Game Without Thrones Minetest server
  * [docs] on preparing a game without thrones
  * [docs] on facilitation tips while running a Game Without Thrones
 
