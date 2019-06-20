@@ -27,27 +27,9 @@ enable_damage = false
 backend = sqlite3
 ```
 
-Service unit file (`/etc/systemd/system/minetestrunner.service`):
+Copy the [Service unit file] to `/etc/systemd/system/minetestrunner.service`):
 
-```
-[Unit]
-Description=Runs the minetest server
-After=network.target
-StartLimitIntervalSec=0
-
-[Service]
-Type=simple
-Restart=always
-RestartSec=5
-User=minetestrunner
-Group=minetestrunner
-ExecStart=/usr/bin/minetest --server --worldname xscale --config /home/minetestrunner/.minetest/worlds/xscale/world.mt
-
-[Install]
-WantedBy=multi-user.target
-```
-
-Useful service commands:
+Now you can control the minetestrunner service using these service commands:
 
 ```
 sudo systemctl status minetestrunner
@@ -72,3 +54,4 @@ To update the server with the latest version of the Game Withou Thrones game.
 sudo ./scripts/update_gwt.sh 
 ```
 
+ [Service unit file]: ../scripts/minetestrunner.service
