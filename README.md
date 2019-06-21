@@ -6,8 +6,8 @@ This facilitation deck can be found on the [XSCALE Alliance Onedrive fileshare].
 The following additional tools and documentation are provided:
 
  * [scripts], [config], and [docs] for installing and maintaining your Game Without Thrones Minetest server
- * [docs] on preparing a game without thrones
- * [docs] on facilitation tips while running a Game Without Thrones
+ * [Game preparation guide] on preparing a game without thrones
+ * [In-game facilitation tips] on facilitation tips while running a Game Without Thrones
 
 ---
 
@@ -15,3 +15,5 @@ The following additional tools and documentation are provided:
  [Minetest]: https://www.minetest.net
  [virtual Game Without Thrones]: https://github.com/XSCALE-Alliance/virtual_game_without_thrones
  [XSCALE Alliance Onedrive fileshare]: https://onedrive.live.com/?id=B7F85941B9715A39%21649&cid=B7F85941B9715A39
+ [Game preparation guide]: ./docs/game-preparation-guide.md
+ [In-game facilitation tips]: ./docs/in-game-facilitation-tips.md
