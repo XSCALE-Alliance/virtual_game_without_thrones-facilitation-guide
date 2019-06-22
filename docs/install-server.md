@@ -60,7 +60,11 @@ sudo ./scripts/update_gwt.sh
 
 ### Run Minetest as a service
 
-Copy the [Service unit file] to `/etc/systemd/system/minetestrunner.service`):
+Install the [Service unit file] by running:
+
+```
+sudo ./scripts/install_service.sh
+```
 
 Now you can control the minetestrunner service using these service commands:
 
