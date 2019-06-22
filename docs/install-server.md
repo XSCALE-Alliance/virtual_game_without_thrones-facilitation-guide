@@ -48,17 +48,15 @@ The directory where Minetest keeps its games is `/usr/share/minetest/games`
 sudo ./scripts/install_gwt.sh
 ```
 
-To update the server with the latest version of the Game Without Thrones game. 
+This will also install the xscale world, using the world file [world.mt].
+When Minetest starts for the first time, 
+it will initiate the player and world databases and add any additional files it needs.
+
+To update the server with the latest version of the Game Without Thrones game: 
 
 ```
 sudo ./scripts/update_gwt.sh 
 ```
-
-Place the following world file into an empty `xscale` folder under 
-`/home/minetestrunner/.minetest/worlds`,
-named after the world you want to host.
-When Minetest starts for the first time, 
-it will initiate the player and world databases and add any additional files it needs.
 
 ### Run Minetest as a service
 
