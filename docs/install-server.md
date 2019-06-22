@@ -4,6 +4,8 @@
 
 I started from a Ubuntu 18.04 AMI, on an Amazon AWS ECS t2.micro instance.
 
+To do: add notes on how to configure the AWS instance (elastic ip, firewall rules).
+
 ### Install Minetest
 
 ```
