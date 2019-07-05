@@ -16,7 +16,7 @@ Hi,
 
 I'm looking forward to meeting you at our next Online Game Without Thrones!
 
-Goal of this game is to create a castle to unite the houses of Westeros.
+In this game we'll create a castle to unite the houses of Westeros.
 You and your fellow players will self-organize like Wildlings.
 
 There will be no command and control, no hierarchy, no managers, masters or owners. 
@@ -30,6 +30,8 @@ Saturday, July 6th, 13.00 CEST (Amsterdam Time that is!).
 
 Videoconferencing using Zoom, in our dedicated [meeting room].
 
+The address of our Minetest world will be disclosed at the start of the game.
+
 *Please prepare:*
 
 All the tools we use are free for you to download, install and use.
@@ -39,7 +41,7 @@ All the tools we use are free for you to download, install and use.
     Please [download Minetest here] and install it on your computer.
  1. We will use [Zoom.us] for videoconferencing.
     Please [download the Zoom client] and install it.
-    We'll use the this Zoom [meeting room].
+    We'll use this Zoom [meeting room].
  1. Please verify that you can access [our online whiteboard].
     Bonus points if you can add a virtual sticky with your name to the players area.
 
@@ -53,7 +55,7 @@ You're good to go if:
 
  * Keep calm, we'll probably figure it out!
  * Reach out to me by replying to this mail.
- * I'll be available one hour in advance to the start of the game in our [meting room] to help you out. 
+ * I'll be available one hour in advance to the start of the game in our [meeting room] to help you out. 
 
 
 I'm looking forward to seeing you next Saturday!
@@ -72,9 +74,30 @@ Marijn
  [download the Zoom client]: https://app.mural.co/t/ag54947/m/ag54947/1558967977551/4aa5c4010edf5c1e0fe335e708a2cc965cc03129
  [meeting room]: https://zoom.us/j/588255052
 
-## Arrange virtual practice areas 
+
+## Build landing area
+
+As a player, 
+I want a place to spwan 
+so that I can joyfully start the game.
+
+ * Set the spawn point to the center of this landing area
+ * It is big enough to hold all players
+ * It is protected from accidental griefing
+ * It has an area for each squad
+ * It has an area for each chapter
+ * It has an area to hold the council meeting
 
 ## Assign creation platforms
+
+As a squad of players, 
+I want my own building area,
+so that I can build without interference from players outside of my squad.
+
+ * The area is safe
+   - players cannot destroy it by accident
+ * 
+
 
 ## Place artefacts
 
