@@ -96,7 +96,6 @@ so that I can build without interference from players outside of my squad.
 
  * The area is safe
    - players cannot destroy it by accident
- * 
 
 
 ## Place artefacts
@@ -109,3 +108,13 @@ so that I can build without interference from players outside of my squad.
    * grant/revoke privileges
    * ...
  * Start as a new user and check that you can do the things you need
+
+
+## Prepare Zoom
+
+In the zoom call, prepare Zoom break out rooms for:
+
+ * the squads
+ * the chapters
+ * the stream council
+
