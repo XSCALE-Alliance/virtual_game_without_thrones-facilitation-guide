@@ -1,5 +1,5 @@
 name = marijn
-default_privs = interact, shout, home
+default_privs = interact, shout, home, worldedit, teleport, fast, fly
 creative_mode = true
 auth_backend = sqlite3
 player_backend = sqlite3
