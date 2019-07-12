@@ -181,6 +181,50 @@ jump into our virtual world and integrate your work into our stream castle.
 If you find your self in the stream council Zoom room:
 Look at the proposed feautres and prioritize them.
 
+### Alignment
+
+In your squad, ratify treaties.
+
+## Second Cycle, Here we go!
+
+### Whole-group introduction [[05]]
+
+We'll speed things up this cycle! No more instructions between activities.
+
+### Squad Delivery [[10]]
+
+### Chapter Meetings [[2+10]]
+
+### Stream Council & Stream integration
+
+### Alignment
+
+## Third Cycle, Here we go!
+
+### Whole-group introduction [[05]]
+
+This is the last cycle.
+
+We'll end this cycle with a showcase.
+
+### Squad Delivery [[10]]
+
+### Chapter Meetings [[10]]
+
+### Stream Council & Stream integration [[10]]
+
+### ~~Alignment~~ Showcase! [[10]]
+
+## Debrief [[25]]
+
+### Per-squad debrief
+
+### Collective debrief
+
+## About XSCALE
+
+## Close
+
 
 
 
