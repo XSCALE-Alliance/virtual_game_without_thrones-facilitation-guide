@@ -20,17 +20,17 @@ like the following paragraph:
 Facilitator instruction scripts can be usd to read to the players,
 but you can of course use your own words if you prefer.
 
-This is how we indicate a ten-minute timebox: [[10]].
+This is how we indicate a ten-minute timebox: [10].
 
 ## Starting point
 
  1. You have [prepared the game](game-preparation.md)
  1. You are aware of the number of participants 
-    and have asserted it's in the [[6-18]] range
+    and have asserted it's in the [6-18] range
 
 This session plan starts 1 hour in advance of the start time.
 
-## Walk-in and trouble shooting [[60]]
+## Walk-in and trouble shooting [60]
 
 Open the zoom call 1 hour in advance to help anyone 
 who experiences problems in their technical setup.
@@ -48,7 +48,7 @@ and verify that you have set up the appropriate Zoom rooms.
 
 <!-- Maybe play some music while waiting? -->
 
-## Session kick-off [[10]]
+## Session kick-off [10]
 
 Welcome everybody.
 
@@ -60,7 +60,7 @@ Verification questions:
  * who has started Minetest?
  * who has played a bit?
 
-## A faciltator's introduction [[10]]
+## A faciltator's introduction [10]
 
 Share your screen, with Minetest in full screen.
 
@@ -68,7 +68,7 @@ Enter the world as your facilitator character.
 
 Read [the game start script] and move through the world accordingly.
 
-## Form the delivery squads [[20]]
+## Form the delivery squads [20]
 
 Form the delivery squads.
 Place the members of a squad in their deicated room.
@@ -116,18 +116,18 @@ Start the timebox in Zoom.
 
 Update the names in Zoom with the squad name.
 
-## First Cycle, Here we go! total time of first cycle: [[5 + 4x12]]
+## First Cycle, Here we go! total time of first cycle: [5 + 4x12]
 
-### Whole-group introduction [[05]]
+### Whole-group introduction [05]
 
 > Remember - each cycle consists of 4 rounds of activities:
 > 
->  1. [[10 minutes]] Delivery: build new castle features with your squad
->  1. [[10 minutes]] Chapter meeting: propose new features and treaties
->  1. [[10 minutes]] Two simultaneous activities:
+>  1. [10 minutes] Delivery: build new castle features with your squad
+>  1. [10 minutes] Chapter meeting: propose new features and treaties
+>  1. [10 minutes] Two simultaneous activities:
 >     * Integration: refactor and integrate castle features
 >     * Small Council: prioritize castle features
->  1. [[10 minutes]] Alignment: per squad combine and ratify treaties
+>  1. [10 minutes] Alignment: per squad combine and ratify treaties
 > 
 > Primary goal of the first cycle is to learn how to do this.
 > It would be awesome if every squad could deliver a tiny, tiny feature to our castle.
@@ -140,9 +140,9 @@ Update the names in Zoom with the squad name.
 > I'll plut all of you in your squad's zoom room.
 > Please help each other to start Minetest and walk to your building area. 
 
-### Squad Delivery [[2+10]]
+### Squad Delivery [2+10]
 
-*[[2]] Together: briefly describe the purpose of this activity 
+*[2] Together: briefly describe the purpose of this activity 
 before putting everybody in their squad's room.*
 
 > During the squad delivery acitivity, you'll build castle features
@@ -160,9 +160,9 @@ Once the ten-minute timer in the room starts, set the time in the Minetest world
 
 Notify everyone that they will be moved to their respective chapter meetings at sundown.
 
-### Chapter Meetings [[2+10]]
+### Chapter Meetings [2+10]
 
-*[[2]] Together: briefly describe the purpose of this activity 
+*[2] Together: briefly describe the purpose of this activity 
 before putting everybody in their chapter's room.*
 
 > The purpose of the chapter meetings is to discuss across-squad
@@ -187,13 +187,13 @@ In your squad, ratify treaties.
 
 ## Second Cycle, Here we go!
 
-### Whole-group introduction [[05]]
+### Whole-group introduction [05]
 
 We'll speed things up this cycle! No more instructions between activities.
 
-### Squad Delivery [[10]]
+### Squad Delivery [10]
 
-### Chapter Meetings [[2+10]]
+### Chapter Meetings [2+10]
 
 ### Stream Council & Stream integration
 
@@ -201,21 +201,21 @@ We'll speed things up this cycle! No more instructions between activities.
 
 ## Third Cycle, Here we go!
 
-### Whole-group introduction [[05]]
+### Whole-group introduction [05]
 
 This is the last cycle.
 
 We'll end this cycle with a showcase.
 
-### Squad Delivery [[10]]
+### Squad Delivery [10]
 
-### Chapter Meetings [[10]]
+### Chapter Meetings [10]
 
-### Stream Council & Stream integration [[10]]
+### Stream Council & Stream integration [10]
 
-### ~~Alignment~~ Showcase! [[10]]
+### ~~Alignment~~ Showcase! [10]
 
-## Debrief [[25]]
+## Debrief [25]
 
 ### Per-squad debrief
 
