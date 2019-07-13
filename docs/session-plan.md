@@ -20,7 +20,7 @@ like the following paragraph:
 Facilitator instruction scripts can be usd to read to the players,
 but you can of course use your own words if you prefer.
 
-This is how we indicate a ten-minute timebox: [[10]].
+This is how we indicate a ten-minute timebox: [10].
 
 ## Starting point
 
