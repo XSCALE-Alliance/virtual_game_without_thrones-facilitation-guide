@@ -5,28 +5,28 @@
  * Start time: `__`
  * Location: fully remote
  * Number of participants: 6-18 (single stream)
- * Facilitator: Marijn
+ * Facilitator: `__`
 
 ## Reader's guide
 
 Facilitator actions and notes are written in plain text,
 like this paragraph.
 
-Faciltator instruction scripts are written as quoted text.
+Facilitator instruction scripts are written as quoted text.
 like the following paragraph:
 
 > Welcome to this game Wildlings!
 
-Facilitator instruction scripts can be usd to read to the players,
+Facilitator instruction scripts can be used to read to the players,
 but you can of course use your own words if you prefer.
 
 This is how we indicate a ten-minute timebox: [10].
 
 ## Starting point
 
- 1. You have [prepared the game](game-preparation.md)
+ 1. You have [prepared the game](game-preparation.md).
  1. You are aware of the number of participants 
-    and have asserted it's in the [6-18] range
+    and have asserted it's in the 6-18 range.
 
 This session plan starts 1 hour in advance of the start time.
 
@@ -37,7 +37,7 @@ who experiences problems in their technical setup.
 
 Verify that ... :
 
- * the Mural is availabe and share the public link.
+ * the Mural is available and share the public link.
  * the Zoom rooms are setup according to the number of teams and chapters
  * the Minetest server is humming along just fine
  * you can enter the world as your facilitator character
@@ -52,7 +52,7 @@ and verify that you have set up the appropriate Zoom rooms.
 
 Welcome everybody.
 
-<!-- notes for introduction -->
+<!-- notes for introduction 
 
 Verification questions:
 
@@ -60,7 +60,9 @@ Verification questions:
  * who has started Minetest?
  * who has played a bit?
 
-## A faciltator's introduction [10]
+ -->
+
+## A facilitator's introduction [10]
 
 Share your screen, with Minetest in full screen.
 
@@ -68,10 +70,12 @@ Enter the world as your facilitator character.
 
 Read [the game start script] and move through the world accordingly.
 
+Share the session's outline.
+
 ## Form the delivery squads [20]
 
 Form the delivery squads.
-Place the members of a squad in their deicated room.
+Place the members of a squad in their dedicated room.
 
 Ask each squad to discuss the following topics, in a ten-minute timebox:
 
@@ -86,10 +90,10 @@ Consider using the following script:
 
 > What we'll do now, is form our delivery squads.
 > Our delivery squads are organized around our customers.
-> In our case, the noblepeople we want to house, 
+> In our case, the noble-people we want to house, 
 > are the Baratheons, the Boltons, and the Greyjoys.
 > 
-> In order to create some well balanced teams, 
+> In order to create three well balanced teams, 
 > I'm going to ask you some questions.
 > 
 > Based on the group's answers to the questions,
@@ -98,27 +102,28 @@ Consider using the following script:
 > Once your squad is complete, 
 > introudce yourself, divide the roles, 
 > and discuss what a great castle would look like for your squad's customers.
-> Please update the Mural with your name, squad and role.
+> While you dos that,
+> please update the Mural with your name, squad and role.
 
 > Question one: who has played Minetest, Minecraft or a similar game before?
 
 Divide these players across the delivery squads.
 
-> Question two: who has seen more than 10 Game of Thrones episodes?
+> Question two: who has access to the Mural I shared earlier?
 
 Divide these players across the delivery squads.
 
-> Question three: ...
+> Question three: who has seen more than 10 Game of Thrones episodes?
 
 Divide the remaining players randomly amongst the squads.
 
 Start the timebox in Zoom.
 
-Update the names in Zoom with the squad name.
+Update the names of the players in Zoom with the squad name.
 
 ## First Cycle, Here we go! total time of first cycle: [5 + 4x12]
 
-### Whole-group introduction [05]
+### Whole-group introduction [5]
 
 > Remember - each cycle consists of 4 rounds of activities:
 > 
@@ -137,49 +142,61 @@ Update the names in Zoom with the squad name.
 > If all goes well, you will find your self in the appropriate room.
 > 
 > We'll start our first cycle with our squad delivery.
-> I'll plut all of you in your squad's zoom room.
+> I'll put all of you in your squad's zoom room.
 > Please help each other to start Minetest and walk to your building area. 
 
 ### Squad Delivery [2+10]
 
 *[2] Together: briefly describe the purpose of this activity 
-before putting everybody in their squad's room.*
+before putting everybody in their squad's room.:*
 
-> During the squad delivery acitivity, you'll build castle features
+> During the squad delivery activity, you'll build castle features
 > in your designated building area.
 > So you autonomously work on your squad's castle features,
 > Independently from the other squads.
+>
+> At sundown, the Squad Delivery activity will end,
+> and the chapter meetings will start.
 
 Put players in their squad's Zoom rooms.
+
+Once the ten-minute timer in the room starts, set the time in the Minetest world to 7:00.
 
 Go by the respective rooms and see if everything is working out.
 
 Visit the Minetest world and help people to get started with building if needed.
-
-Once the ten-minute timer in the room starts, set the time in the Minetest world to 7:00.
 
 Notify everyone that they will be moved to their respective chapter meetings at sundown.
 
 ### Chapter Meetings [2+10]
 
 *[2] Together: briefly describe the purpose of this activity 
-before putting everybody in their chapter's room.*
+before putting everybody in their chapter's room.:*
 
 > The purpose of the chapter meetings is to discuss across-squad
 > what we have learned, what problems we are facing 
 > and what we propose to do.
+>
 > A chapter can propose treaties to align across chapters and squads.
+>
 > A chapter can propose castle features fro squads to build.
 > 
 > You will find examples of both on our Mural.
 
 ### Stream Council & Stream integration
 
-If you find yourself in your squad's Zoom room: 
-jump into our virtual world and integrate your work into our stream castle.
+*[2] Together: briefly describe the purpose of this activity 
+before putting everybody in their respective zoom room.:*
 
-If you find your self in the stream council Zoom room:
-Look at the proposed feautres and prioritize them.
+> In this step, we'll do simultaneous activities:
+> Castle Integration with our delivery squads and
+> Feature prioritization in the Stream Council.
+> 
+> If you find yourself in your squad's Zoom room: 
+> jump into our virtual world and integrate your work into our stream castle.
+> 
+> If you find your self in the stream council Zoom room:
+> Look at the proposed features and prioritize them.
 
 ### Alignment
 
@@ -189,23 +206,25 @@ In your squad, ratify treaties.
 
 ### Whole-group introduction [05]
 
-We'll speed things up this cycle! No more instructions between activities.
+> We'll speed things up this cycle! 
+> No more instructions between activities.
+> The day-night cycle in Minetest will be our rhythm.
 
 ### Squad Delivery [10]
 
-### Chapter Meetings [2+10]
+### Chapter Meetings [10]
 
-### Stream Council & Stream integration
+### Stream Council & Stream integration [10]
 
-### Alignment
+### Alignment [10]
 
 ## Third Cycle, Here we go!
 
 ### Whole-group introduction [05]
 
-This is the last cycle.
-
-We'll end this cycle with a showcase.
+> This is the last cycle.
+> 
+> We'll end this cycle with a showcase.
 
 ### Squad Delivery [10]
 
@@ -215,11 +234,35 @@ We'll end this cycle with a showcase.
 
 ### ~~Alignment~~ Showcase! [10]
 
+> No alignment this time! 
+> We'll end this cycle with a showcase of our work!
+> 
+> I'll mute everyone first.
+> Then I'll ask a representative of each squad
+> to join me in a showcase of our work.
+> 
+> The four of us will travel through our virtual world
+> and point out the interesting things that can be seen there.
+> 
+> Let's go!
+
 ## Debrief [25]
 
-### Per-squad debrief
+### Per-squad debrief [6 + 3x2]
 
-### Collective debrief
+> In your squad's zoom room, in seven minutes.
+> Reflect on the thing you enjoyed most about working this way.
+> 
+> When we get back, one squad member shares the highlights 
+> of your conversation with the entire group
+
+### Dream-debrief [9]
+
+Now, we'll break into three new groups.
+In your group, fantasize what would happen 
+if you worked this way at your current job.
+
+### Collective debrief [3]
 
 ## About XSCALE
 
