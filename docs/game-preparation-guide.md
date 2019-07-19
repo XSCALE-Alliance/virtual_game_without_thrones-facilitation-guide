@@ -74,8 +74,9 @@ Marijn
  [download the Zoom client]: https://app.mural.co/t/ag54947/m/ag54947/1558967977551/4aa5c4010edf5c1e0fe335e708a2cc965cc03129
  [meeting room]: https://zoom.us/j/588255052
 
+## Prepare the Minetest world
 
-## Build landing area
+### Build landing area
 
 As a player, 
 I want a place to spwan 
@@ -88,7 +89,7 @@ so that I can joyfully start the game.
  * It has an area for each chapter
  * It has an area to hold the council meeting
 
-## Assign creation platforms
+### Assign creation platforms
 
 As a squad of players, 
 I want my own building area,
@@ -98,7 +99,21 @@ so that I can build without interference from players outside of my squad.
    - players cannot destroy it by accident
 
 
-## Place artefacts
+### Place artefacts
+
+If the players need specific artefacts, place them in the world.
+
+### Check the player limit
+
+By default, Minetest allows a maximum of 16 players.
+Makeke sure that this limit is set correctly.
+Don't forget that the facilitators count as a players as well!
+
+### Prepare the faciltitator character
+
+Wear something distinguishable.
+
+Make sure you have admin permissions.
 
 ## Test play
 
@@ -117,4 +132,6 @@ In the zoom call, prepare Zoom break out rooms for:
  * the squads
  * the chapters
  * the stream council
+
+![Zoom break-out room setup](zoom-breakout-room-setup.png)
 

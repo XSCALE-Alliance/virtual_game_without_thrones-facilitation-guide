@@ -1,5 +1,3 @@
-> This speech and introduction is performed by Tyrion, the king's Hand'.
-
 Thank you for joining me in our King's quest to unite all the houses in the Seven Kingdoms!
 
 We'll start off with building a castle 
@@ -25,7 +23,8 @@ Now let's look at how we will self-organize to build this castle.
 
 We'll organize in customer-oriented, autonomous squads.
 Each squad will build and deliver valuable parts of our castle.
-In this stream, we will focus our efforts on the Baratheons, the Boltons and the Greyjoys.
+In this stream, we will focus our efforts on the noblepeople from the following houses:
+the Baratheons, the Boltons, and the Greyjoys.
 Each of these squads will have a dedicated building area.
 As a stream, we will build one castle.
 We will align using round councils.
@@ -41,6 +40,10 @@ However, different chapters focus on different aspects of the castle:
  * Merchant
  * Artist
  * Captain
+
+We call these roles. Roles are organize into chapters, 
+to facilitate inter-squad learning 
+and role-based skill-acquisition. 
 
 _Show the building areas._
 
@@ -60,3 +63,9 @@ An entire cycle onsists of five activities
     * Small Council: prioritize castle features
  1. Alignment: combine and ratify treaties
  
+_To do: explain leadership as a service_
+
+
+
+
+
