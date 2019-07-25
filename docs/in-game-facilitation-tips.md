@@ -55,7 +55,9 @@ make sure that you have this privilege when you're facilitating a game.
 Quick guide:
 
  * `/time 7:00` set the time to 7 o'clock in the morning
- * `/time 19:00`  set the time to 7 o'clock in the evening - in the default game, this is the time of sun-down
+ * `/time 19:00`  set the time to 7 o'clock in the evening 
+
+ In the default game, 19:00 is the time of sun-down, sun rises at 5:30.
 
 ---
 
