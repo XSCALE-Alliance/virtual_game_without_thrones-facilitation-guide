@@ -23,8 +23,10 @@ Now let's look at how we will self-organize to build this castle.
 
 We'll organize in customer-oriented, autonomous squads.
 Each squad will build and deliver valuable parts of our castle.
-In this stream, we will focus our efforts on the noblepeople from the following houses:
+In this stream (a stream is what we call a group of squads that together deliver a castle), 
+we will focus our efforts on the noblepeople from the following houses:
 the Baratheons, the Boltons, and the Greyjoys.
+Each squad will serve a single customer.
 Each of these squads will have a dedicated building area.
 As a stream, we will build one castle.
 We will align using round councils.
@@ -32,7 +34,7 @@ We will align using round councils.
 Each squad will have all the necessary skills to build a valuable increment.
 All team members are equals. There are no masters, no owners, no managers, no kings.
 All team members have the same skills.
-However, different chapters focus on different aspects of the castle:
+However, different people focus on different aspects of the castle:
 
  * Architect
  * Maester
@@ -41,20 +43,22 @@ However, different chapters focus on different aspects of the castle:
  * Artist
  * Captain
 
-We call these roles. Roles are organize into chapters, 
+We call these roles. Roles are organized into chapters, 
 to facilitate inter-squad learning 
 and role-based skill-acquisition. 
 
 _Show the building areas._
 
-We will start building at 7.00. 
-We will stop building at sundown, 19.00.
+These are the areas your squads will use to build.
+
+We will do building an integration activities during daytime.
+Our day starts at 7.00 and ends at sundown, 19.00.
 
 Each squad builds castle features in its own area. 
 
 _To do: explain the entire cycle_
 
-An entire cycle onsists of five activities
+An entire cycle consists of five activities
 
  1. Delivery: build new castle features with your squad
  1. Chapter meeting: propose new features and treaties
@@ -64,6 +68,8 @@ An entire cycle onsists of five activities
  1. Alignment: combine and ratify treaties
  
 _To do: explain leadership as a service_
+
+
 
 
 
